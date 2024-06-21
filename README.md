@@ -3,11 +3,14 @@ INSTALLATION
 * go to project directory
 
 
+
 INSTALL DEPENDENCIES
 * npm install
 
 
+
 RUNNING THE APPLICATION
+
 The project uses TypeScript, so you need to compile the TypeScript code to JavaScript before running the application.
 * npx tsc
 
@@ -16,6 +19,7 @@ The project uses nodemon to automatically restart the server on code changes. St
 * run command - node index.js
 
 The server should now be running on http://localhost:3000 by default.
+
 
 PROJECT STRUCTURE
 src/: This directory contains the TypeScript source files.
